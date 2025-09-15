@@ -52,3 +52,8 @@ El script genera:
 Un mapa temático nacional de cobertura del suelo para Argentina (2024).
 
 La posibilidad de exportar el raster para su análisis posterior en QGIS, Python u otros entornos SIG.
+
+<img width="3307" height="4677" alt="Argentina-Satelital" src="https://github.com/user-attachments/assets/96ce55a7-137c-4a23-9c37-08a5d445328f" />
+
+
+
