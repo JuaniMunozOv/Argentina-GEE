@@ -1,0 +1,47 @@
+{
+  "Agua": {
+    "provincia": "Provincia de San Juan",
+    "porcentaje": 6.57,
+    "color": "#419bdf"
+  },
+  "Bosques": {
+    "provincia": "Provincia de Misiones",
+    "porcentaje": 82.1,
+    "color": "#397d49"
+  },
+  "Pastizales": {
+    "provincia": "Provincia de Entre Ríos",
+    "porcentaje": 3.19,
+    "color": "#7a87c6"
+  },
+  "Matorrales": {
+    "provincia": "Provincia de Corrientes",
+    "porcentaje": 47.03,
+    "color": "#88b053"
+  },
+  "Suelo Desnudo": {
+    "provincia": "Provincia de San Juan",
+    "porcentaje": 69.59,
+    "color": "#a59b8f"
+  },
+  "Nieve y Hielo": {
+    "provincia": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "porcentaje": 18.57,
+    "color": "#b39fe1"
+  },
+  "Áreas Urbanas": {
+    "provincia": "Ciudad Autónoma de Buenos Aires",
+    "porcentaje": 95.57,
+    "color": "#c4281b"
+  },
+  "Vegetación Inundable": {
+    "provincia": "Provincia de Río Negro",
+    "porcentaje": 57.26,
+    "color": "#dfc35a"
+  },
+  "Tierras de Cultivo": {
+    "provincia": "Provincia de Córdoba",
+    "porcentaje": 61.09,
+    "color": "#e49635"
+  }
+}

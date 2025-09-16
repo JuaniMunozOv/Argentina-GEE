@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Clasificación por Provincia - Argentina</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <h1>Análisis de Clasificación por Provincia</h1>
+        <p>Argentina - Datos de Cobertura del Suelo 2024</p>
+    </header>
+
+    <main class="container">
+        <div class="map-container">
+            <div id="map"></div>
+
+            <div class="legend" id="legend">
+                <h4>Clasificaciones</h4>
+                <div id="legendItems"></div>
+            </div>
+
+            <div class="maximos-chart" id="maximosChart">
+                <h4>🏆 Máximos por Clasificación</h4>
+                <div id="maximosItems"></div>
+            </div>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

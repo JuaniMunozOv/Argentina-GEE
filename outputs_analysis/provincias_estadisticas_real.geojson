@@ -1,0 +1,1493 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "area_total_km2": 158.18,
+        "total_pixels": 262892,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 2.06,
+            "porcentaje": 1.3,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 1.41,
+            "porcentaje": 0.89,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 0.09,
+            "porcentaje": 0.06,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 2.2,
+            "porcentaje": 1.39,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 0.19,
+            "porcentaje": 0.12,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 0.0,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 151.18,
+            "porcentaje": 95.57,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 0.2,
+            "porcentaje": 0.13,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 0.85,
+            "porcentaje": 0.54,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3816,
+          -34.6037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de San Luis",
+        "area_total_km2": 60571.91,
+        "total_pixels": 100669404,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 90.1,
+            "porcentaje": 0.15,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 13682.2,
+            "porcentaje": 22.59,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 549.22,
+            "porcentaje": 0.91,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 7823.29,
+            "porcentaje": 12.92,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 1039.33,
+            "porcentaje": 1.72,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 47.61,
+            "porcentaje": 0.08,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 265.65,
+            "porcentaje": 0.44,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 21199.7,
+            "porcentaje": 35.0,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 15874.8,
+            "porcentaje": 26.21,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3354,
+          -33.295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Santa Fe",
+        "area_total_km2": 103106.19,
+        "total_pixels": 171360602,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 2795.01,
+            "porcentaje": 2.71,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 21320.3,
+            "porcentaje": 20.68,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 2646.76,
+            "porcentaje": 2.57,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 23040.67,
+            "porcentaje": 22.35,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 154.86,
+            "porcentaje": 0.15,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 0.38,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 1115.59,
+            "porcentaje": 1.08,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 4577.74,
+            "porcentaje": 4.44,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 47454.87,
+            "porcentaje": 46.03,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6396,
+          -32.9442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Tucumán",
+        "area_total_km2": 16884.86,
+        "total_pixels": 28062325,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 142.98,
+            "porcentaje": 0.85,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 6814.85,
+            "porcentaje": 40.36,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 79.8,
+            "porcentaje": 0.47,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 1106.81,
+            "porcentaje": 6.56,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 1044.37,
+            "porcentaje": 6.19,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 2.07,
+            "porcentaje": 0.01,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 484.82,
+            "porcentaje": 2.87,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 1344.27,
+            "porcentaje": 7.96,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 5864.89,
+            "porcentaje": 34.73,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.2071,
+          -26.8241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Mendoza",
+        "area_total_km2": 120589.41,
+        "total_pixels": 200417396,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 2259.24,
+            "porcentaje": 1.87,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 2800.43,
+            "porcentaje": 2.32,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 201.54,
+            "porcentaje": 0.17,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 476.83,
+            "porcentaje": 0.4,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 45747.29,
+            "porcentaje": 37.94,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 1461.86,
+            "porcentaje": 1.21,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 1290.23,
+            "porcentaje": 1.07,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 60129.49,
+            "porcentaje": 49.86,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 6222.48,
+            "porcentaje": 5.16,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8272,
+          -32.9442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Jujuy",
+        "area_total_km2": 38714.09,
+        "total_pixels": 64342108,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 709.55,
+            "porcentaje": 1.83,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 7588.54,
+            "porcentaje": 19.6,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 49.22,
+            "porcentaje": 0.13,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 445.82,
+            "porcentaje": 1.15,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 25544.2,
+            "porcentaje": 65.98,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 47.77,
+            "porcentaje": 0.12,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 282.14,
+            "porcentaje": 0.73,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 1537.79,
+            "porcentaje": 3.97,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 2509.06,
+            "porcentaje": 6.48,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3014,
+          -24.1858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Santiago del Estero",
+        "area_total_km2": 103321.71,
+        "total_pixels": 171718798,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 507.13,
+            "porcentaje": 0.49,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 61471.95,
+            "porcentaje": 59.5,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 635.24,
+            "porcentaje": 0.61,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 3207.38,
+            "porcentaje": 3.1,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 2791.94,
+            "porcentaje": 2.7,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 12.06,
+            "porcentaje": 0.01,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 554.81,
+            "porcentaje": 0.54,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 7889.66,
+            "porcentaje": 7.64,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 26251.54,
+            "porcentaje": 25.41,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2903,
+          -27.7824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Córdoba",
+        "area_total_km2": 129835.81,
+        "total_pixels": 215784747,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 3158.38,
+            "porcentaje": 2.43,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 20510.18,
+            "porcentaje": 15.8,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 995.89,
+            "porcentaje": 0.77,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 8777.52,
+            "porcentaje": 6.76,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 3698.0,
+            "porcentaje": 2.85,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 9.56,
+            "porcentaje": 0.01,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 1631.26,
+            "porcentaje": 1.26,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 11735.66,
+            "porcentaje": 9.04,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 79319.37,
+            "porcentaje": 61.09,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1888,
+          -31.4201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de La Pampa",
+        "area_total_km2": 119871.86,
+        "total_pixels": 199224851,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 774.29,
+            "porcentaje": 0.65,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 14604.76,
+            "porcentaje": 12.18,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 448.99,
+            "porcentaje": 0.37,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 6187.21,
+            "porcentaje": 5.16,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 3393.64,
+            "porcentaje": 2.83,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 180.44,
+            "porcentaje": 0.15,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 350.57,
+            "porcentaje": 0.29,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 62961.2,
+            "porcentaje": 52.52,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 30970.77,
+            "porcentaje": 25.84,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2833,
+          -36.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia del Chaco",
+        "area_total_km2": 74326.81,
+        "total_pixels": 123529801,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 314.31,
+            "porcentaje": 0.42,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 48419.95,
+            "porcentaje": 65.14,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 399.34,
+            "porcentaje": 0.54,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 7103.4,
+            "porcentaje": 9.56,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 14.28,
+            "porcentaje": 0.02,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 0.04,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 396.5,
+            "porcentaje": 0.53,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 3432.19,
+            "porcentaje": 4.62,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 14246.8,
+            "porcentaje": 19.17,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.43,
+          -27.4514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Formosa",
+        "area_total_km2": 55399.17,
+        "total_pixels": 92072407,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 291.34,
+            "porcentaje": 0.53,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 40423.13,
+            "porcentaje": 72.97,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 410.51,
+            "porcentaje": 0.74,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 7177.2,
+            "porcentaje": 12.96,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 43.25,
+            "porcentaje": 0.08,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 0.01,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 210.95,
+            "porcentaje": 0.38,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 4377.19,
+            "porcentaje": 7.9,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 2465.6,
+            "porcentaje": 4.45,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1836,
+          -26.1775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Santa Cruz",
+        "area_total_km2": 242691.59,
+        "total_pixels": 403348996,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 6028.49,
+            "porcentaje": 2.48,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 1319.39,
+            "porcentaje": 0.54,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 562.61,
+            "porcentaje": 0.23,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 2158.08,
+            "porcentaje": 0.89,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 95737.39,
+            "porcentaje": 39.45,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 18685.52,
+            "porcentaje": 7.7,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 3533.65,
+            "porcentaje": 1.46,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 66315.68,
+            "porcentaje": 27.33,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 48350.77,
+            "porcentaje": 19.92,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2167,
+          -51.623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia del Chubut",
+        "area_total_km2": 206554.48,
+        "total_pixels": 343289769,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 1651.76,
+            "porcentaje": 0.8,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 8386.45,
+            "porcentaje": 4.06,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 384.62,
+            "porcentaje": 0.19,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 1031.76,
+            "porcentaje": 0.5,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 111549.35,
+            "porcentaje": 54.0,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 2083.16,
+            "porcentaje": 1.01,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 1998.06,
+            "porcentaje": 0.97,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 63723.7,
+            "porcentaje": 30.85,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 15745.61,
+            "porcentaje": 7.62,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.1033,
+          -43.7889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de San Juan",
+        "area_total_km2": 68813.66,
+        "total_pixels": 114367043,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 4522.37,
+            "porcentaje": 6.57,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 454.46,
+            "porcentaje": 0.66,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 25.55,
+            "porcentaje": 0.04,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 15.67,
+            "porcentaje": 0.02,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 47884.65,
+            "porcentaje": 69.59,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 70.67,
+            "porcentaje": 0.1,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 575.39,
+            "porcentaje": 0.84,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 13602.46,
+            "porcentaje": 19.77,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 1662.45,
+            "porcentaje": 2.42,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5364,
+          -31.5375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Río Negro",
+        "area_total_km2": 177142.69,
+        "total_pixels": 294407921,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 1370.48,
+            "porcentaje": 0.77,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 4871.49,
+            "porcentaje": 2.75,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 135.68,
+            "porcentaje": 0.08,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 403.26,
+            "porcentaje": 0.23,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 52891.26,
+            "porcentaje": 29.86,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 590.15,
+            "porcentaje": 0.33,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 1319.7,
+            "porcentaje": 0.74,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 101435.77,
+            "porcentaje": 57.26,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 14124.9,
+            "porcentaje": 7.97,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3314,
+          -41.1335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Misiones",
+        "area_total_km2": 22393.63,
+        "total_pixels": 37217804,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 342.45,
+            "porcentaje": 1.53,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 18384.51,
+            "porcentaje": 82.1,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 40.52,
+            "porcentaje": 0.18,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 1850.52,
+            "porcentaje": 8.26,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 0.93,
+            "porcentaje": 0.0,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 0.04,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 462.19,
+            "porcentaje": 2.06,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 120.26,
+            "porcentaje": 0.54,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 1192.21,
+            "porcentaje": 5.32,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4026,
+          -27.3621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia del Neuquén",
+        "area_total_km2": 80540.08,
+        "total_pixels": 133856135,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 2267.74,
+            "porcentaje": 2.82,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 7952.31,
+            "porcentaje": 9.87,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 108.33,
+            "porcentaje": 0.13,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 563.62,
+            "porcentaje": 0.7,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 42887.38,
+            "porcentaje": 53.25,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 1250.97,
+            "porcentaje": 1.55,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 843.72,
+            "porcentaje": 1.05,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 21992.14,
+            "porcentaje": 27.31,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 2673.87,
+            "porcentaje": 3.32,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0595,
+          -38.9516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de La Rioja",
+        "area_total_km2": 70196.69,
+        "total_pixels": 116665625,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 1947.41,
+            "porcentaje": 2.77,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 13346.29,
+            "porcentaje": 19.01,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 178.21,
+            "porcentaje": 0.25,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 84.56,
+            "porcentaje": 0.12,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 20588.79,
+            "porcentaje": 29.33,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 142.65,
+            "porcentaje": 0.2,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 415.61,
+            "porcentaje": 0.59,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 31973.23,
+            "porcentaje": 45.55,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 1519.96,
+            "porcentaje": 2.17,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8504,
+          -29.4131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Catamarca",
+        "area_total_km2": 76155.11,
+        "total_pixels": 126568396,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 4170.81,
+            "porcentaje": 5.48,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 10273.28,
+            "porcentaje": 13.49,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 140.27,
+            "porcentaje": 0.18,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 958.12,
+            "porcentaje": 1.26,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 45401.6,
+            "porcentaje": 59.62,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 216.87,
+            "porcentaje": 0.28,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 532.11,
+            "porcentaje": 0.7,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 11908.32,
+            "porcentaje": 15.64,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 2553.73,
+            "porcentaje": 3.35,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.2071,
+          -28.4681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Salta",
+        "area_total_km2": 113903.92,
+        "total_pixels": 189306235,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 1580.2,
+            "porcentaje": 1.39,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 54618.24,
+            "porcentaje": 47.95,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 244.31,
+            "porcentaje": 0.21,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 1693.0,
+            "porcentaje": 1.49,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 32166.95,
+            "porcentaje": 28.24,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 64.77,
+            "porcentaje": 0.06,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 636.09,
+            "porcentaje": 0.56,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 8408.06,
+            "porcentaje": 7.38,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 14492.3,
+            "porcentaje": 12.72,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.2071,
+          -24.7821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Buenos Aires",
+        "area_total_km2": 253965.22,
+        "total_pixels": 422085557,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 3595.5,
+            "porcentaje": 1.42,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 10862.04,
+            "porcentaje": 4.28,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 3091.74,
+            "porcentaje": 1.22,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 91091.72,
+            "porcentaje": 35.87,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 1307.45,
+            "porcentaje": 0.51,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 2.92,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 4445.75,
+            "porcentaje": 1.75,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 9396.81,
+            "porcentaje": 3.7,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 130171.29,
+            "porcentaje": 51.26,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3731,
+          -34.6118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+        "area_total_km2": 21263.69,
+        "total_pixels": 35339862,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 1123.54,
+            "porcentaje": 5.28,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 5137.32,
+            "porcentaje": 24.16,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 510.87,
+            "porcentaje": 2.4,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 3259.4,
+            "porcentaje": 15.33,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 847.26,
+            "porcentaje": 3.98,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 3948.31,
+            "porcentaje": 18.57,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 316.05,
+            "porcentaje": 1.49,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 5892.04,
+            "porcentaje": 27.71,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 228.9,
+            "porcentaje": 1.08,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3044,
+          -54.8019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Entre Ríos",
+        "area_total_km2": 61058.17,
+        "total_pixels": 101477572,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 2159.71,
+            "porcentaje": 3.54,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 19308.42,
+            "porcentaje": 31.62,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 1948.73,
+            "porcentaje": 3.19,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 18570.0,
+            "porcentaje": 30.41,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 13.48,
+            "porcentaje": 0.02,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 0.33,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 584.61,
+            "porcentaje": 0.96,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 650.68,
+            "porcentaje": 1.07,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 17822.22,
+            "porcentaje": 29.19,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.43,
+          -32.0581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provincia": "Provincia de Corrientes",
+        "area_total_km2": 67373.65,
+        "total_pixels": 111973780,
+        "clasificaciones": {
+          "Agua": {
+            "area_km2": 2322.22,
+            "porcentaje": 3.45,
+            "color": "#419bdf"
+          },
+          "Bosques": {
+            "area_km2": 29420.89,
+            "porcentaje": 43.67,
+            "color": "#397d49"
+          },
+          "Pastizales": {
+            "area_km2": 1138.37,
+            "porcentaje": 1.69,
+            "color": "#7a87c6"
+          },
+          "Matorrales": {
+            "area_km2": 31688.16,
+            "porcentaje": 47.03,
+            "color": "#88b053"
+          },
+          "Suelo Desnudo": {
+            "area_km2": 42.49,
+            "porcentaje": 0.06,
+            "color": "#a59b8f"
+          },
+          "Nieve y Hielo": {
+            "area_km2": 0.17,
+            "porcentaje": 0.0,
+            "color": "#b39fe1"
+          },
+          "Áreas Urbanas": {
+            "area_km2": 366.91,
+            "porcentaje": 0.54,
+            "color": "#c4281b"
+          },
+          "Vegetación Inundable": {
+            "area_km2": 692.22,
+            "porcentaje": 1.03,
+            "color": "#dfc35a"
+          },
+          "Tierras de Cultivo": {
+            "area_km2": 1702.22,
+            "porcentaje": 2.53,
+            "color": "#e49635"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8309,
+          -27.4692
+        ]
+      }
+    }
+  ]
+}
